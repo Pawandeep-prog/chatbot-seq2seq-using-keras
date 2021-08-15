@@ -1,5 +1,5 @@
 # chatbot-seq2seq-using-keras
-This is chatbot built by using keras. 
+This is a chatbot built by using keras. 
 <h2> Dataset 💾 </h2>
 I used this dataset : http://convai.io/data/ <br>
 and all of the data is in json format. There are 3 different files you can use any of it depending on the size and amount of data you want.
@@ -7,10 +7,10 @@ and all of the data is in json format. There are 3 different files you can use a
 <h2> Running 🏃‍♀️ </h2>
 There is a .ipynb file you may simply open that with your favourite notebook editor and simply run it.<br>
 or<br>
-Run that .py make sure in both the case you shoukd have the dataset in the same directory. And make sure to chnge the dataset name in the code.
+Run that .py make sure in both the case you should have the dataset in the same directory. And make sure to change the dataset name in the code.
 
 <h2> Support 🤝 </h2>
-If you want to support me just give me a subscribe on my youtube channel <br>
+If you want to support me just subscribe to my youtube channel <br>
 https://www.youtube.com/c/ProgrammingHutofficial/
 
 <h2> Sample Chats 🔥 </h2>
